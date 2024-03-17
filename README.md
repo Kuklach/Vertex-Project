@@ -2,6 +2,8 @@
 
 Vertex Projection is a simple yet powerful Blender addon that allows you to project edges or vertices onto a plane defined by the cursor location and normal. If you're tired of manually selecting vertices and scaling them to zero, or creating custom transform orientations for similar tasks, this addon can be a helpful solution without the need for heavy and expensive addons.
 
+<img src="./blob/main/Example.gif" width="50%" height="50%"/>
+
 ## Features
 
 - Project edges or vertices onto a plane defined by the cursor location and normal
